@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+h2,
+h3,
+span {
+  color: white;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 1200px;
+  /* margin: auto; */
+}
